@@ -6,6 +6,8 @@ Welcome to the "Real-time Data Processing with Apache Kafka, Spark Streaming, an
 
 ![Real-time Data Processing](http://www.externalharddrive.com/graphics/bullets/square/redsquare.gif)
 
+
+![Google Slides Link](https://docs.google.com/presentation/d/1rZj799Y0V02H08tiTbXjI12VOqh1zzWDlHymkubUolo/edit?usp=sharing)
 ## Design
 
 ### Architecture Overview
